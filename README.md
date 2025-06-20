@@ -18,5 +18,14 @@ File #4| Timothy Ronald 3 (Beta) (Update 2.0)
 = - Memperbaiki Logika Dasar
   - Memperbaiki Promt
   - Memperbaiki Struktur Bahasa
-  - Kemiripan:
+  - Kemiripan: 37%
+
+File #5| Timothy Ronald 4 (Beta) (Update 1.0) (20/06/2025) 
+= - Memperbaiki Design Ui/Ux Tampilan Chat
+  - Memperbaiki Struktur bahasa agar lebih menyerupai timothy ronald
+  - Menambahkan History Biografi Timoty Ronald
+  - Kemiripan: 74%
+
+File #6| Timothy Ronald 4 (Beta) (Update 2.0) (???) (Comming Soon)
+
 
